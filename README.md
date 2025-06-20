@@ -94,8 +94,3 @@ https://YOUR_USERNAME.github.io/amd-stock-analysis/
 - Báo cáo chỉ mang tính chất tham khảo, không phải lời khuyên đầu tư
 - Website được tối ưu hóa cho GitHub Pages hosting
 
-# amd-stock-analysis
-# amd-stock-analysis
-# amd-stock-analysis
-# amd-stock-analysis
-# amd-stock-analysis
